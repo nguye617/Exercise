@@ -3,8 +3,8 @@ package studentlist;
 import java.util.Scanner;
 
 /**
- *
- * @author paulbonenfant
+ * This class model student Objects Student have name and student Id
+ * @author  Dong Nugyen ,2024
  */
 public class StudentList {
 
